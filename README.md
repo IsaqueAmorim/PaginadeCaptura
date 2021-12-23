@@ -3,7 +3,7 @@
 Esta página de captura foi meu primeiro projeto, extremamente simples e pode se dizer que ainda amador, pois não houve o uso de JavaScript e nem mesmo FlexBox (no css).
 
 
-Fiz o Uplowd deste projeto apenas para mostrar e comparar a evolução dos projetos durante o tempo.
+Fiz o Upload deste projeto apenas para mostrar e comparar a evolução dos projetos durante o tempo.
 
 Este projeto tem apenas uma seção, que contém um texto de apresentação e um formuário para ser preenchido pelo usuário.
 
